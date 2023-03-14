@@ -3,10 +3,10 @@
 ## ⚛️ About Me
 
 - 👨🏻‍💻 I'm Rui, a **Software Engineer / Full-Stack Developer**. Here is for my [personal portfolio](https://hiruihu.com/).
-- 🌅 I'm from [Long Beach, California](https://goo.gl/maps/qfi7gt74XznfT9CEA).
+- 🌅 I'm from [Long Beach, California](https://goo.gl/maps/qfi7gt74XznfT9CEA) (per official documents lol 😆).
 - 🌵 I'm currently living in the [Grand Canyon State](https://goo.gl/maps/duBqxhMKPVeow3wA7).
 - 👾 I minored in Computer Science. I was pursuing my dream of being an NLP expert but I fell in love in software development along the way.
-- 🌟 I have taught myself web development and techniques and is striving to become a subject-matter expert in software engineering.
+- 🌟 I have taught myself web development and techniques and am striving to become a subject-matter expert in software engineering.
 
 ## 🛠️ Skills
 
