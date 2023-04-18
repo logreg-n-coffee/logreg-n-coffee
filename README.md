@@ -6,8 +6,7 @@
 - 🌅 I'm from [Long Beach, California](https://goo.gl/maps/qfi7gt74XznfT9CEA) (per official documents lol 😆).
 - 🌵 I'm currently living in the [Grand Canyon State](https://goo.gl/maps/duBqxhMKPVeow3wA7).
 - 👾 I graduated with a Computer Science degree.
-- ✨ I will be employed full-time on **May 1, 2023**.
-- 🌟 In the beginning of my career. I have taught myself web development and techniques and am striving to become a subject-matter expert in software engineering.
+- 🥑 I am a foodie and I am particularly a fan of healthy food choices.
 
 ## 🛠️ Skills
 
