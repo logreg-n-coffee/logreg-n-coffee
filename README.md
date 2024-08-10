@@ -2,7 +2,7 @@
 
 ## ⚛️ About Me
 
-- 👨🏻‍💻 I'm Rui (pronounced as *roo-ee*), I am a **Lead Software Engineer** working at [State Farm](https://www.statefarm.com/about-us). Here is for my [personal portfolio](https://hiruihu.com/).
+- 👨🏻‍💻 I'm Rui (pronounced as *roo-ee*). I am a **Lead Software Engineer** working at [State Farm](https://www.statefarm.com/about-us). Here is for my [personal portfolio](https://hiruihu.com/).
 
 ## 🛠️ Skills
 
