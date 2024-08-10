@@ -1,8 +1,8 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+# Hi there! `<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">`
 
 ## ⚛️ About Me
 
-- 👨🏻‍💻 I'm Rui (pronounced as *roo-ee*), **Lead Software Engineer** working at State Farm. Here is for my [personal portfolio](https://hiruihu.com/).
+- 👨🏻‍💻 I'm Rui (pronounced as *roo-ee*), I am a **Lead Software Engineer** working at [State Farm](https://www.statefarm.com/about-us). Here is for my [personal portfolio](https://hiruihu.com/).
 
 ## 🛠️ Skills
 
