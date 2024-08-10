@@ -2,11 +2,7 @@
 
 ## ⚛️ About Me
 
-- 👨🏻‍💻 I'm Rui (pronounced as *roo-ee*), a **Software Engineer / Full-Stack Developer**. Here is for my [personal portfolio](https://hiruihu.com/).
-- 🌅 I'm from [Long Beach, California](https://goo.gl/maps/qfi7gt74XznfT9CEA) (per official documents lol 😆).
-- 🌵 I'm currently living in the [Grand Canyon State](https://goo.gl/maps/duBqxhMKPVeow3wA7).
-- 👾 I graduated with a Computer Science degree.
-- 🥑 I am a foodie and I am particularly a fan of healthy food choices.
+- 👨🏻‍💻 I'm Rui (pronounced as *roo-ee*), **Lead Software Engineer** working at State Farm. Here is for my [personal portfolio](https://hiruihu.com/).
 
 ## 🛠️ Skills
 
@@ -45,6 +41,17 @@
 ![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
+### Data / Machine Learning / Artificial Intelligence
+
+![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![huggingface](https://img.shields.io/badge/Hugging_Face-FFAE10?style=for-the-badge&logo=huggingface&logoColor=white)
+![rag](https://img.shields.io/badge/Retrieval--Augmented%20Generation-FF4500?style=for-the-badge&logo=rag&logoColor=white)
+
 ### Database / Cache
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -53,13 +60,18 @@
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
-
 ### Backend as a Service (BaaS)
 
 ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
 ![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+### Cloud Native
+
+![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ### ORM
 
@@ -73,6 +85,10 @@
 ![mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
 ![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![karma](https://img.shields.io/badge/Karma-3DDC84?style=for-the-badge&logo=karma&logoColor=white)
+![junit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ### DevOps
 
@@ -81,6 +97,7 @@
 
 ### Operating System
 
+![OS X](https://img.shields.io/badge/OS%20X-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
