@@ -3,10 +3,9 @@
 ## ⚛️ About Me
 
 - 👨🏻‍💻 I'm Rui (pronounced as *roo-ee*). I am a **Lead Software Engineer** working at [State Farm](https://www.statefarm.com/about-us). Here is for my [personal portfolio](https://hiruihu.com/).
+- 🤖 Currently focused on **Generative AI, LLM-powered applications, AI agents, and prompt engineering**.
 
 ## 🛠️ Skills
-
-### Languages
 
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -51,6 +50,22 @@
 ![jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![huggingface](https://img.shields.io/badge/Hugging_Face-FFAE10?style=for-the-badge&logo=huggingface&logoColor=white)
 ![rag](https://img.shields.io/badge/Retrieval--Augmented%20Generation-FF4500?style=for-the-badge&logo=rag&logoColor=white)
+![langchain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![openai](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![llamaindex](https://img.shields.io/badge/LlamaIndex-6F42C1?style=for-the-badge&logo=llamaindex&logoColor=white)
+![anthropic](https://img.shields.io/badge/Anthropic-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)
+![google-gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![mlflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![amazon-bedrock](https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### AI / Agentic Tools
+
+![crewai](https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge&logo=crewai&logoColor=white)
+![autogen](https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![github-copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 ### Database / Cache
 
