@@ -66,6 +66,8 @@
 ![autogen](https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![github-copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![langgraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![agentic-programming](https://img.shields.io/badge/Agentic_Programming-6F42C1?style=for-the-badge&logo=robot&logoColor=white)
 
 ### Database / Cache
 
