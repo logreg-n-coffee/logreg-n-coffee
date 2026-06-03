@@ -4,7 +4,7 @@
 
 - 👨🏻‍💻 I'm Rui (pronounced as *roo-ee*). I am a **Lead Software Engineer** working at [State Farm](https://www.statefarm.com/about-us). Here is for my [personal portfolio](https://hiruihu.com/).
 - 🤖 Currently focused on **Generative AI, LLM-powered applications, AI agents, and prompt engineering**.
-- 👾 I am also an indie game developer.
+- 👾 I am also an indie game and app developer.
 
 ## 🛠️ Skills
 
